@@ -13,3 +13,14 @@ Fase 2:
     7. git merge desarrollo 
     8. git tag v1 
     9. para verlo todo git branch y git tag 
+Fase 3: 
+    1. mkdir examenLopezClonado
+    2. git clone ".."
+    3. Para actulizar luego el repositorio: git fetch origin main 
+    3. Luego git merge origin/main 
+    4. Se sincronizan los cambios de las dos carpetas en el remoto 
+Fase 4:
+    1. touch ../../login.txt
+    2. mv ../../src/index.html ../../docs/manuales/ayuda.html 
+    3. $ git log --graph --oneline --all
+    
