@@ -4,4 +4,12 @@ Face 1:
     3. cp ../src/index.html ../data/copia.txt 
        volver a la carpeta examenLopez cd.. 
 Fase 2: 
-    
+    1. git branch bug 
+    2. git checkout bug 
+    3. echo "Mi lenguaje de programación fav es Java" >> README.md  (hacer commit)
+    4. git checkout desarrollo 
+    5. git merge bug 
+    6.git checkout main 
+    7. git merge desarrollo 
+    8. git tag v1 
+    9. para verlo todo git branch y git tag 
