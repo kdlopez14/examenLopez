@@ -1,0 +1,7 @@
+Face 1: 
+    1. mkdir -p src docs data
+    2. echo "<h1>Hola</h1>" >> src/index.html 
+    3. cp ../src/index.html ../data/copia.txt 
+       volver a la carpeta examenLopez cd.. 
+Fase 2: 
+    
